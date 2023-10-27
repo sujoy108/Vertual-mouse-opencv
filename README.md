@@ -1,4 +1,4 @@
-# Vertual-mouse-opencv
+# Virtual-mouse-opencv
 Run python3 mouse1.py
 or run python mouse.py
 
